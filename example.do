@@ -1,3 +1,9 @@
+******************************************
+* Wenli Wenddy Xu,Anhui University
+* 2022-08-03
+******************************************
+
+
 use "Divorce-Wolfers-AER.dta", clear 
 set matsize 1000
 
