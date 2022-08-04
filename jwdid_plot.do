@@ -1,3 +1,9 @@
+******************************************
+* Wenli Wenddy Xu,Anhui University
+* 2022-08-03
+******************************************
+
+
 /* As above, to produce a graph and compute average effects */ 
 matrix temp=r(table)'
 matrix res=J(4,4,0)
